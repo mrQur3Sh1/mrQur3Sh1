@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Muhammad Bilal Qureshi
+# 👋 Hi, I’m Muhammad Bilal Qureshi
 
 - **👀 Passionate About**: Web development, data analysis, and video editing. As a BSCS student, I'm exploring the intersection of technology and creativity.
 - **🌱 Learning**: Currently delving deep into web development and honing my skills in data analysis to unlock new insights.
