@@ -5,16 +5,11 @@
 - **💞️ Collaborate**: Excited about collaborative opportunities in the realms of tech and multimedia! Let's create something amazing together.
 - **📫 Contact**: Feel free to reach out to me via muhammadbilalqureshi31@gmail.com for any collaboration or inquiries!
 
-![GitHub Contributions](https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Contributions&query=%24.contributions&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ff219066)
+## My GitHub Stats
 
-**Total Contributions**  
-![Total Contributions](https://img.shields.io/badge/Total%20Contributions-77-blue)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=f219066&layout=compact&theme=dark&hide_border=true)
 
-**Current Streak**  
-![Current Streak](https://img.shields.io/badge/Current%20Streak-4-blue)
-
-**Longest Streak**  
-![Longest Streak](https://img.shields.io/badge/Longest%20Streak-Jan%2028%20--%20Jan%203-blue)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=f219066&theme=dark&hide_border=true)
 
 <!---
 f219066/f219066 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
