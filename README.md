@@ -5,16 +5,16 @@
 - **💞️ Collaborate**: Excited about collaborative opportunities in the realms of tech and multimedia! Let's create something amazing together.
 - **📫 Contact**: Feel free to reach out to me via muhammadbilalqureshi31@gmail.com for any collaboration or inquiries!
 
-![Contributions](https://badges.pufler.dev/visits/f219066/f219066?color=blue&logo=github)
+![GitHub Contributions](https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Contributions&query=%24.contributions&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ff219066)
 
 **Total Contributions**  
-![Total Contributions](https://badges.pufler.dev/commits/monthly/f219066?color=blue&logo=github)
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions-77-blue)
 
 **Current Streak**  
-![Current Streak](https://badges.pufler.dev/streaks/f219066?color=blue&logo=github)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-4-blue)
 
 **Longest Streak**  
-![Longest Streak](https://badges.pufler.dev/streaks/f219066?color=blue&logo=github&longest=true)
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-Jan%2028%20--%20Jan%203-blue)
 
 <!---
 f219066/f219066 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
