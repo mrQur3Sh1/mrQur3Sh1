@@ -14,7 +14,6 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=f219066&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=f219066&theme=dark&hide_border=true)
 
 <!---
 f219066/f219066 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
