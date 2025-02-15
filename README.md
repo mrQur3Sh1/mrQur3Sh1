@@ -14,6 +14,11 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=f219066&layout=compact&theme=dark&hide_border=true)
 
+![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=f219066&theme=github_dark)
+
+![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=f219066&theme=github_dark)
+
+
 
 <!---
 f219066/f219066 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
