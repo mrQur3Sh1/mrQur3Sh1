@@ -24,11 +24,22 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrQur3Sh1&theme=github_dark" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mrQur3Sh1&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=mrQur3Sh1&show_icons=true&theme=github_dark" />
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=mrQur3Sh1&theme=radical&border_radius=10" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mrQur3Sh1&theme=github-dark&hide_border=false" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrQur3Sh1&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <br />
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrQur3Sh1&theme=radical" alt="GitHub Activity Graph" />
+
 </div>
 
 <!---
