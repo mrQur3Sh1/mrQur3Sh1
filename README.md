@@ -22,25 +22,26 @@
 ---
 
 ## 📊 My GitHub Stats
-
 <div align="center">
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mrQur3Sh1&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
   <br />
 
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=mrQur3Sh1&theme=radical&border_radius=10" alt="GitHub Streak" />
+  <!-- Streak Stats (NEW working one) -->
+  <img src="https://streak-stats.demolab.com?user=mrQur3Sh1&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   <br />
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrQur3Sh1&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
   <br />
 
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrQur3Sh1&theme=radical" alt="GitHub Activity Graph" />
+  <!-- Total Contributions & Commits (All-time) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrQur3Sh1&theme=radical" alt="All Contributions" />
+  <br />
 
 </div>
+
 
 <!---
 f219066/f219066 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
