@@ -68,9 +68,6 @@ Data_Engineering:
   - Advanced SQL & performance tuning
   - Tableau dashboards for BI
 
-Mobile_Development:
-  - React Native apps with real-time integration
-  - Mobile-first analytics experiences
 ````
 
 ---
