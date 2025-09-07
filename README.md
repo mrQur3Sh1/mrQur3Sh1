@@ -65,16 +65,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrQur3Sh1&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" height="160" />
-<img src="https://streak-stats.demolab.com?user=mrQur3Sh1&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" height="160" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrQur3Sh1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" />
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrQur3Sh1&theme=tokyonight" />
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=mrQur3Sh1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrQur3Sh1&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=mrQur3Sh1&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" height="160" />  
+<img src="https://streak-stats.demolab.com?user=mrQur3Sh1&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" height="160" />  
+<br/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrQur3Sh1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" />  
+<br/>  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrQur3Sh1&theme=tokyonight" />  
+<br/>  
+<img src="https://github-profile-trophy.vercel.app/?username=mrQur3Sh1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />  
+<br/>  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrQur3Sh1&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" />  
+
 </div>
 
 ---
@@ -121,6 +122,4 @@ Learning_Path:
 *Building the future of data-driven decision making, one pipeline at a time*
 
 </div>
-```
-
 
