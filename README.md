@@ -4,7 +4,6 @@
   <img src="https://i.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif" alt="Developer Animation" width="400">
 </p>
 
-<!-- Centered ASCII banner (use <pre> to avoid nested code-fence issues) -->
 <div align="center">
 <pre>
 ╔════════════════════════════════════════════════════════════╗
@@ -15,22 +14,17 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F85D7F&center=true&vCenter=true&lines=Turning+Data+Chaos+into+Business+Intelligence;ETL+Pipelines+%7C+SQL+%7C+Tableau+%7C+Pentaho;React+Native+Apps+with+Real-Time+Integration;Data+Engineer+%7C+App+Developer+%7C+Tech+Explorer" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F85D7F&center=true&vCenter=true&lines=Turning+Data+Chaos+into+Business+Intelligence;ETL+Pipelines+%7C+SQL+%7C+Tableau;React+Native+Apps+with+Real-Time+Integration" alt="Typing Animation">
 </p>
 
 ---
 
 ## 🔥 About Me
-
-- 👀 **Passionate About:** Web development, data analysis, and video editing — exploring the intersection of technology and creativity.  
-- 🔬 **Primary Focus:** Data Engineering & ETL Pipeline Architecture — turning raw data into actionable insights.  
-- 📊 **Data Stack:** Pentaho (PDI), Advanced SQL, Tableau, DB performance tuning.  
-- 📱 **Mobile Dev:** React Native apps with real-time data integration.  
-- 🌱 **Learning:** Currently delving deep into web development and honing skills in data analysis to unlock new insights.  
-- 💞️ **Collaborate:** Excited about collaborative opportunities in tech & multimedia — let's create something amazing together.  
-- 📫 **Contact:** muhammadbilalqureshi31@gmail.com. (Also below in Connect section.)  
-- 🎓 **Academic:** BSCS student blending data engineering with mobile tech.  
-- 🚀 **Mission:** Build reliable, scalable data systems that drive decisions.
+- **Data Engineer & App Developer** — building scalable ETL pipelines and cross-platform mobile apps.  
+- 👀 Passionate about: Web development, data analysis, and video editing.  
+- 🌱 Currently learning: Advanced web development & data analytics.  
+- 💞️ Open to collaborate: ETL, BI dashboards, and data-driven mobile apps.  
+- 📫 Reach me at: **muhammadbilalqureshi31@gmail.com**
 
 ---
 
@@ -38,18 +32,18 @@
 
 <div align="center">
 
-### 🏗️ DATA ENGINEERING
+### 🏗️ Data Engineering
 ![Pentaho](https://img.shields.io/badge/Pentaho-FF6C37?style=for-the-badge&logo=pentaho&logoColor=white)
 ![SQL](https://img.shields.io/badge/Advanced_SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL_Pipelines-FF6B35?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 📱 MOBILE & WEB
+### 📱 Mobile & Web
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🗄️ DATABASES
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -59,18 +53,9 @@
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mrQur3Sh1&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" height="160" />
-<img src="https://streak-stats.demolab.com?user=mrQur3Sh1&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" height="160" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrQur3Sh1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" />
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrQur3Sh1&theme=tokyonight" />
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=mrQur3Sh1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mrQur3Sh1&show_icons=true&theme=tokyonight&hide_border=true" height="140" />
+  <img src="https://streak-stats.demolab.com?user=mrQur3Sh1&theme=tokyonight&hide_border=true" height="140" />
 </div>
 
 ---
@@ -80,15 +65,39 @@
 ```yaml
 Data_Engineering:
   - Scalable ETL with Pentaho (PDI)
-  - Advanced SQL optimization & indexing
-  - Tableau dashboards for BI storytelling
-  - Data warehouse design & modeling
+  - Advanced SQL & performance tuning
+  - Tableau dashboards for BI
 
 Mobile_Development:
-  - React Native with real-time data streams
-  - Data-first UX for analytics on mobile
+  - React Native apps with real-time integration
+  - Mobile-first analytics experiences
+````
 
-Learning_Path:
-  - Orchestration & scheduling at scale
-  - Streaming pipelines (near real-time)
-  - Data quality & governance
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-bilal-qureshi-52236528a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:muhammadbilalqureshi31@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/mrQur3Sh1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 🔥 *"Turning Data Chaos into Business Intelligence"*
+
+*Building the future of data-driven decision making, one pipeline at a time.*
+
+</div>
+
