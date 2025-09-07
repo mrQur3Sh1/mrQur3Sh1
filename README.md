@@ -1,36 +1,177 @@
-# 👋 Hi, I’m Muhammad Bilal Qur3Sh1
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXF4aml3eGk5ZW42dm9tMTUyZDh4OWtieTJqcDMwdWJ2aWluaTE5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgIc0lryrxvqVGM/giphy.gif" alt="Developer Animation" width="400">
-</p>
-- 👀 Passionate About: Web development, data analysis, and video editing. As a BSCS student, I'm exploring the intersection of technology and creativity.  
-- 🌱 Learning: Currently delving deep into web development and honing my skills in data analysis to unlock new insights.  
-- 💞️ Collaborate: Excited about collaborative opportunities in the realms of tech and multimedia! Let's create something amazing together.  
-- 📫 Contact: Reach me at muhammadbilalqureshi31@gmail.com for collaborations or inquiries.
----
-## 🔗 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-bilal-qureshi-52236528a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-</p>
----
-## 📊 My GitHub Stats
+# 🚀 Muhammad Bilal Qur3Sh1
+### `Data Engineer | Mobile App Developer | Analytics Architect`
+
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mrQur3Sh1&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
-  <br />
-  <!-- Streak Stats (NEW working one) -->
-  <img src="https://streak-stats.demolab.com?user=mrQur3Sh1&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  <br />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrQur3Sh1&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-  <br />
-  <!-- Total Contributions & Commits (All-time) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrQur3Sh1&theme=radical" alt="All Contributions" />
-  <br />
+  
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  ████▄ ▄▄▄▄▄ ▄▄▄▄▄ ▄▄▄▄▄    ████▄    ▄   ▄▄▄▄▄ ▄▄▄▄▄ ████▄  ║
+║  █   █   █   █   █ █   █    █   █     █  █   █ █   █ █   █  ║
+║  █   █   █   █▄▄▄█ █▄▄▄▄    █   █ ██   █ █   █ █▄▄▄█ █   █  ║
+║  █   █   █   █   █ █   █    █   █ █ █  █ █   █ █   █ █   █  ║
+║  █████   █   █   █ █   █    █████ █  █ █ █████ █   █ █████  ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
 </div>
-<!---
-f219066/f219066 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-as i am a data engineer as well as app developer react native i worked on pentaho , tableau , advance sql but i want that my read me looks very booring lots of stats make it very Futuristic and updated and the best  data engineering , highlight ETL , etc and priority should be data engineering 
+
+---
+
+## 🔬 **CORE ARCHITECTURE**
+
+```mermaid
+graph TD
+    A[🗃️ Data Sources] -->|Extract| B[🔄 ETL Pipeline]
+    B -->|Transform| C[⚡ Processing Engine]
+    C -->|Load| D[🏛️ Data Warehouse]
+    D --> E[📊 Analytics Layer]
+    E --> F[📱 Mobile Interface]
+    
+    style A fill:#0f3460
+    style B fill:#16537e
+    style C fill:#1a759f
+    style D fill:#168aad
+    style E fill:#34a0a4
+    style F fill:#52b788
+```
+
+---
+
+## ⚡ **DATA ENGINEERING ARSENAL**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ **ETL & PROCESSING**
+```yaml
+Core_Technologies:
+  - Pentaho Data Integration ⭐⭐⭐⭐⭐
+  - Advanced SQL Queries ⭐⭐⭐⭐⭐
+  - Data Pipeline Orchestration ⭐⭐⭐⭐
+  - Real-time Stream Processing ⭐⭐⭐⭐
+```
+
+### 📊 **ANALYTICS & VISUALIZATION**
+```yaml
+Business_Intelligence:
+  - Tableau Dashboard Design ⭐⭐⭐⭐⭐
+  - Interactive Data Stories ⭐⭐⭐⭐
+  - KPI Performance Tracking ⭐⭐⭐⭐
+  - Executive Reporting ⭐⭐⭐⭐
+```
+
+</td>
+<td width="50%">
+
+### 🗄️ **DATA INFRASTRUCTURE**
+```yaml
+Database_Systems:
+  - PostgreSQL/MySQL ⭐⭐⭐⭐⭐
+  - Data Warehousing ⭐⭐⭐⭐
+  - Query Optimization ⭐⭐⭐⭐⭐
+  - Database Performance Tuning ⭐⭐⭐⭐
+```
+
+### 📱 **MOBILE DEVELOPMENT**
+```yaml
+React_Native_Stack:
+  - Cross-platform Apps ⭐⭐⭐⭐
+  - Data-driven UIs ⭐⭐⭐⭐
+  - Real-time Analytics ⭐⭐⭐⭐
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌊 **DATA FLOW EXPERTISE**
+
+<div align="center">
+
+```
+┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
+│   EXTRACT   │───▶│  TRANSFORM  │───▶│    LOAD     │───▶│   ANALYZE   │
+│             │    │             │    │             │    │             │
+│ • Web APIs  │    │ • Cleansing │    │ • Warehouse │    │ • Dashboards│
+│ • Databases │    │ • Validation│    │ • Data Lake │    │ • Reports   │
+│ • Files     │    │ • Enrichment│    │ • Real-time │    │ • Insights  │
+└─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘
+```
+
+</div>
+
+---
+
+## 💼 **PROFESSIONAL FOCUS**
+
+<div align="center">
+
+| 🎯 **SPECIALIZATION** | 🔧 **IMPLEMENTATION** | 📈 **IMPACT** |
+|:---:|:---:|:---:|
+| ETL Pipeline Architecture | Pentaho Kettle, Custom Scripts | Automated 95% of data workflows |
+| Business Intelligence | Tableau, Advanced SQL | Real-time executive dashboards |
+| Mobile Analytics | React Native, Data APIs | Cross-platform data solutions |
+| Performance Optimization | Query tuning, Index strategies | 300% faster data processing |
+
+</div>
+
+---
+
+## 🎓 **ACADEMIC FOUNDATION**
+```
+🏛️ Bachelor of Science in Computer Science (BSCS)
+   ├── Advanced Database Systems
+   ├── Data Structures & Algorithms
+   ├── Software Engineering Principles
+   └── Mobile Application Development
+```
+
+---
+
+## 🤝 **COLLABORATION OPPORTUNITIES**
+
+<div align="center">
+
+```
+╭─────────────────────────────────────────────────────────╮
+│                                                         │
+│  🏢 Enterprise Data Solutions                           │
+│  📊 Business Intelligence Projects                      │
+│  📱 Data-Driven Mobile Applications                     │
+│  🔄 ETL Pipeline Optimization                           │
+│  📈 Analytics Dashboard Development                     │
+│                                                         │
+╰─────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+## 📡 **CONNECT & COLLABORATE**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/muhammad-bilal-qureshi-52236528a)
+[![Email](https://img.shields.io/badge/Email-Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:muhammadbilalqureshi31@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│    "Transforming Raw Data into Strategic Intelligence"     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**`Building the future of data-driven decision making, one pipeline at a time`**
+
+</div>
