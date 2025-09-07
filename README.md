@@ -4,7 +4,7 @@
   <img src="https://i.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif" alt="Developer Animation" width="400">
 </p>
 
-<!-- Centered ASCII banner (uses <pre> instead of nested code fences to avoid breaking layout) -->
+<!-- Centered ASCII banner (use <pre> to avoid nested code-fence issues) -->
 <div align="center">
 <pre>
 ╔════════════════════════════════════════════════════════════╗
@@ -15,17 +15,22 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F85D7F&center=true&vCenter=true&lines=Turning+Data+Chaos+into+Business+Intelligence;ETL+Pipelines+%7C+SQL+%7C+Tableau+%7C+Pentaho;React+Native+Apps+with+Real-Time+Integration;Data+Engineer+%7C+App+Developer" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F85D7F&center=true&vCenter=true&lines=Turning+Data+Chaos+into+Business+Intelligence;ETL+Pipelines+%7C+SQL+%7C+Tableau+%7C+Pentaho;React+Native+Apps+with+Real-Time+Integration;Data+Engineer+%7C+App+Developer+%7C+Tech+Explorer" alt="Typing Animation">
 </p>
 
 ---
 
 ## 🔥 About Me
-- 🔬 **Primary Focus:** Data Engineering & ETL Pipeline Architecture — turning raw data into actionable insights  
-- 📊 **Data Stack:** Pentaho (PDI), Advanced SQL, Tableau, DB performance tuning  
-- 📱 **Mobile Dev:** React Native apps with real-time data integration  
-- 🎓 **BSCS:** Blending data engineering with mobile technology  
-- 🚀 **Mission:** Build reliable, scalable data systems that drive decisions
+
+- 👀 **Passionate About:** Web development, data analysis, and video editing — exploring the intersection of technology and creativity.  
+- 🔬 **Primary Focus:** Data Engineering & ETL Pipeline Architecture — turning raw data into actionable insights.  
+- 📊 **Data Stack:** Pentaho (PDI), Advanced SQL, Tableau, DB performance tuning.  
+- 📱 **Mobile Dev:** React Native apps with real-time data integration.  
+- 🌱 **Learning:** Currently delving deep into web development and honing skills in data analysis to unlock new insights.  
+- 💞️ **Collaborate:** Excited about collaborative opportunities in tech & multimedia — let's create something amazing together.  
+- 📫 **Contact:** muhammadbilalqureshi31@gmail.com. (Also below in Connect section.)  
+- 🎓 **Academic:** BSCS student blending data engineering with mobile tech.  
+- 🚀 **Mission:** Build reliable, scalable data systems that drive decisions.
 
 ---
 
