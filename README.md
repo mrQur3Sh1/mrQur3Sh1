@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F85D7F&center=true&vCenter=true&lines=Turning+Data+Chaos+into+Business+Intelligence;ETL+Pipelines+%7C+SQL+%7C+Tableau;React+Native+Apps+with+Real-Time+Integration" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=1200&color=F85D7F&center=true&vCenter=true&width=700&lines=Turning+Data+Chaos+into+Insights;Building+Scalable+ETL+Pipelines;Mastering+SQL+%7C+Tableau+%7C+Pentaho;Data+Engineering+%7C+Analytics+%7C+BI" alt="Typing Animation">
 </p>
 
 ---
