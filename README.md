@@ -70,22 +70,6 @@
 
 ## 🎯 Current Focus
 
-
----
-
-## 🎮 Fun Zone
-
-<p align="center">
-  <img src="https://i.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="280" />
-</p>
-
-<div align="center">
-
-🕹️ **Current Mood:** Debugging the Matrix  
-🎯 **Favorite Break:** Playing retro 8-bit games  
-💻 **Side Project:** Building a small React Native game  
-🔥 *"Code hard, play harder!"*
-
 ```yaml
 Cloud_Data_Engineering:
   - AWS SAM + Step Functions orchestration
