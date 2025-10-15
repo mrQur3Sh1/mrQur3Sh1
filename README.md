@@ -70,16 +70,6 @@
 
 ## 🎯 Current Focus
 
-```yaml
-Cloud_Data_Engineering:
-  - AWS SAM + Step Functions orchestration
-  - Automated ETL from RDS → S3 → Transformation
-  - CloudWatch Logs, Metrics & Dashboard insights
-
-Business_Intelligence:
-  - Tableau dashboards for analytics
-  - Pentaho PDI ETL workflows
-  - SQL optimization for data pipelines
 
 ---
 
@@ -95,5 +85,16 @@ Business_Intelligence:
 🎯 **Favorite Break:** Playing retro 8-bit games  
 💻 **Side Project:** Building a small React Native game  
 🔥 *"Code hard, play harder!"*
+
+```yaml
+Cloud_Data_Engineering:
+  - AWS SAM + Step Functions orchestration
+  - Automated ETL from RDS → S3 → Transformation
+  - CloudWatch Logs, Metrics & Dashboard insights
+
+Business_Intelligence:
+  - Tableau dashboards for analytics
+  - Pentaho PDI ETL workflows
+  - SQL optimization for data pipelines
 
 </div>
