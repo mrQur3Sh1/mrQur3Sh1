@@ -6,24 +6,29 @@
 
 <div align="center">
 <pre>
-╔════════════════════════════════════════════════════════════╗
-║                 DATA ENGINEER • APP DEVELOPER              ║
-║          ETL | SQL | TABLEAU | PENTAHO | REACT NATIVE      ║
-╚════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════╗
+║              DATA ENGINEER • CLOUD AUTOMATION • APP DEVELOPER              ║
+║                  AWS | ETL | SQL | TABLEAU | PENTAHO | React Native        ║
+╚════════════════════════════════════════════════════════════════════════════╝
 </pre>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=1200&color=F85D7F&center=true&vCenter=true&width=700&lines=Turning+Data+Chaos+into+Insights;Building+Scalable+ETL+Pipelines;Mastering+SQL+%7C+Tableau+%7C+Pentaho;Data+Engineering+%7C+Analytics+%7C+BI" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=1200&color=F85D7F&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Intelligent+Systems;Automating+Cloud+Data+Pipelines+with+AWS;Mastering+ETL+%7C+Tableau+%7C+Pentaho;Empowering+Analytics+through+Data+Engineering" alt="Typing Animation">
 </p>
 
 ---
 
 ## 🔥 About Me
-- **Data Engineer & App Developer** — building scalable ETL pipelines and cross-platform mobile apps.  
-- 👀 Passionate about: Web development, data analysis, and video editing.  
-- 🌱 Currently learning: Advanced web development & data analytics.  
-- 💞️ Open to collaborate: ETL, BI dashboards, and data-driven mobile apps.  
+- **Data Engineer | App Developer | Cloud Automation **  
+- 💡 Building intelligent **ETL workflows**, **AWS Step Functions**, and **serverless pipelines**.  
+- 🌩️ Experienced with **AWS SAM**, **Lambda**, **CloudWatch**, **RDS**, and **S3 orchestration**.  
+- 👀 Passionate about: Cloud data engineering, mobile app development, and automation.  
+- 🌱 Currently working on:  
+  - Serverless **ETL pipelines using AWS SAM + Step Functions**  
+  - Real-time **monitoring with CloudWatch Logs & Metrics**  
+  - Advanced **RDS-to-S3 ETL automation with Python**  
+- 💞️ Open to collaborate on: **Data pipelines, BI dashboards, and cloud-native apps.**  
 - 📫 Reach me at: **muhammadbilalqureshi31@gmail.com**
 
 ---
@@ -32,22 +37,24 @@
 
 <div align="center">
 
-### 🏗️ Data Engineering
+### ☁️ Cloud & Data Engineering
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS SAM](https://img.shields.io/badge/AWS_SAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step_Functions-FF4F00?style=for-the-badge&logo=aws-step-functions&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 ![Pentaho](https://img.shields.io/badge/Pentaho-FF6C37?style=for-the-badge&logo=pentaho&logoColor=white)
-![SQL](https://img.shields.io/badge/Advanced_SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL_Pipelines-FF6B35?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 📱 Mobile & Web
+### 🧠 Programming & App Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
+![RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
 </div>
 
 ---
@@ -63,38 +70,12 @@
 ## 🎯 Current Focus
 
 ```yaml
-Data_Engineering:
-  - Scalable ETL with Pentaho (PDI)
-  - Advanced SQL & performance tuning
-  - Tableau dashboards for BI
+Cloud_Data_Engineering:
+  - AWS SAM + Step Functions orchestration
+  - Automated ETL from RDS → S3 → Transformation
+  - CloudWatch Logs, Metrics & Dashboard insights
 
-````
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-bilal-qureshi-52236528a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:muhammadbilalqureshi31@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/mrQur3Sh1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### 🔥 *"Turning Data Chaos into Business Intelligence"*
-
-*Building the future of data-driven decision making, one pipeline at a time.*
-
-</div>
-
+Business_Intelligence:
+  - Tableau dashboards for analytics
+  - Pentaho PDI ETL workflows
+  - SQL optimization for data pipelines
