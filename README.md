@@ -21,11 +21,11 @@
 
 ## 🔥 About Me
 - **Data Engineer | App Developer | Cloud Automation **  
-- 💡 Building intelligent **ETL workflows**, **AWS Step Functions**, and **serverless pipelines**.  
+- 💡 Building intelligent **ETL workflows**, **AWS Step Functions**, and **serverless pipelines**, **AWS Lambda**.  
 - 🌩️ Experienced with **AWS SAM**, **Lambda**, **CloudWatch**, **RDS**, and **S3 orchestration**.  
 - 👀 Passionate about: Cloud data engineering, mobile app development, and automation.  
 - 🌱 Currently working on:  
-  - Serverless **ETL pipelines using AWS SAM + Step Functions**  
+  - Serverless **ETL pipelines using AWS SAM + Step Functions + Lambda**  
   - Real-time **monitoring with CloudWatch Logs & Metrics**  
   - Advanced **RDS-to-S3 ETL automation with Python**  
 - 💞️ Open to collaborate on: **Data pipelines, BI dashboards, and cloud-native apps.**  
@@ -42,6 +42,7 @@
 ![AWS SAM](https://img.shields.io/badge/AWS_SAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Step Functions](https://img.shields.io/badge/Step_Functions-FF4F00?style=for-the-badge&logo=aws-step-functions&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Pentaho](https://img.shields.io/badge/Pentaho-FF6C37?style=for-the-badge&logo=pentaho&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL_Pipelines-FF6B35?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
