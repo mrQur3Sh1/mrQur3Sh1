@@ -80,3 +80,20 @@ Business_Intelligence:
   - Tableau dashboards for analytics
   - Pentaho PDI ETL workflows
   - SQL optimization for data pipelines
+
+---
+
+## 🎮 Fun Zone
+
+<p align="center">
+  <img src="https://i.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="280" />
+</p>
+
+<div align="center">
+
+🕹️ **Current Mood:** Debugging the Matrix  
+🎯 **Favorite Break:** Playing retro 8-bit games  
+💻 **Side Project:** Building a small React Native game  
+🔥 *"Code hard, play harder!"*
+
+</div>
